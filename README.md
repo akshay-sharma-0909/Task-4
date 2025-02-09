@@ -25,3 +25,5 @@ Tracking & Reporting:
 Users can generate time reports that provide insights into their daily or weekly productivity patterns, helping them understand how their time is spent.
 
 ## output
+
+![Image](https://github.com/user-attachments/assets/8afb1024-9397-49fd-a47d-922db6f2172c)
