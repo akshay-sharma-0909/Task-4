@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Time Tracker Extension",
+  "description": "Track how much time you spend on different websites.",
+  "version": "1.0",
+  "permissions": ["storage", "activeTab", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "storage": {
+    "persistent": true
+  }
+}
